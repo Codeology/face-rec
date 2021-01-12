@@ -15,7 +15,7 @@ Clone repo - but only the "final_version_files" subdirectory is required for run
 ### pip install face-recognition
 Store the images of the faces of known "students" in the subdirectory called train_dir. Each "student" should have their own folder, labeled with their name. 
 Don't worry about the unknown-male and unknown-female directories. 
-The images found in the main final_version_files directory are example images that you can run this product on. These can be simply substitued with screenshots of Zoom classrooms.  
+The images found in the main final_version_files directory are example images that you can run this product on. These can be simply substituted with screenshots of Zoom classrooms.  
 
 Follow the steps below to run the actual application. 
 
