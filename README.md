@@ -48,7 +48,7 @@ An image without an unknown faces will update the attendance spreadsheet accordi
 ![Successful upload](readme_pics/no_unknown_faces.png)
 
 An image WITH unknown faces will update the attendance spreadsheet with any known faces, but produce a warning under the image as shown below. 
-~[Unsuccessful upload](readme_pics/unknown_faces.png)
+![Unsuccessful upload](readme_pics/unknown_faces.png)
 
 That's pretty much it! 
 
